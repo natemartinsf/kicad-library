@@ -1,0 +1,59 @@
+PCBNEW-LibDoc----V1  13/06/2010 02:10:16
+#
+$MODULE SM1210L_POL
+Li SM1210L_POL
+Kw CMS SM
+$EndMODULE
+#
+$MODULE SM1510L_POL
+Li SM1510L_POL
+Kw CMS SM
+$EndMODULE
+#
+$MODULE DC3-10P
+Li DC3-10P
+Cd Connecteur HE10 10 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE DC3-14P
+Li DC3-14P
+Cd Connecteur HE10 14 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE DC3-20P
+Li DC3-20P
+Cd Connecteur HE10 20 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE SOT23_5
+Li SOT23_5
+Cd SOT23_5
+$EndMODULE
+#
+$MODULE SC70-6
+Li SC70-6
+Kw SC70-6
+$EndMODULE
+#
+$MODULE DC3-16P
+Li DC3-16P
+Cd Connecteur HE10 14 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE DC3-6P
+Li DC3-6P
+Cd Connecteur HE10 10 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE DB9_M
+Li DB9_M
+Cd Connecteur DB9 femelle couche
+Kw CONN DB9
+$EndMODULE
+#
+$EndLIBDOC
